@@ -1,2 +1,2 @@
 # Perceptron Algorithm
-Perceptron Algorithm in Basic Python.
+Multiple Variatnts of Perceptron Algorithm in Basic Python.
